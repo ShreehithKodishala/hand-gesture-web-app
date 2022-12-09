@@ -1,0 +1,46 @@
+body
+{
+    background-image: linear-gradient(cyan, lightgreen);
+
+}
+
+span{
+  font-size: 30px;
+}
+#camera , #result
+{
+    border: 10px solid yellow;
+
+  width: 380px;
+  height: 330px; 
+  
+}
+#result_emoji_name ,#result_emoji_name2  
+{
+  color: black;
+}
+.emoji_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+
+  letter-spacing: 7px;
+  font-size: 20px;
+  
+}
+
+label{
+
+  color: darkgreen;
+  font-size: 15px;
+  background-color: lightgoldenrodyellow;
+
+}
+
+
